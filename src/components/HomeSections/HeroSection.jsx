@@ -10,9 +10,9 @@ const HeroSection = () => {
     /* Weitere Style-Attribute hier */
   };
   return (
-    <div style={styles} className="text-white  pt-20 text-center">
-      <div className="w-full mt-20 flex justify-center"> </div>
-      <p className="text-lg mt-5 md:text-2xl lg:text-3xl font-semibold">
+    <div style={styles} className="text-white  pt-40 md:pt-48 lg:pt-60 text-center">
+     
+      <p className="text-lg mt- md:text-2xl lg:text-3xl font-semibold">
         Kißling Architekten
       </p>
       <p className="text-5xl  md:text-7xl lg:text-8xl mt-1 md:mt-4 font-semibold">
